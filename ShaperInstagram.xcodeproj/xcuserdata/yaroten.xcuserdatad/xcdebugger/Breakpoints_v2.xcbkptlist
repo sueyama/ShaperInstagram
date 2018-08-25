@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShaperInstagram/EditViewController.swift"
+            timestampString = "546925406.587606"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "EditViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShaperInstagram.EditViewController.editImageView.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "ShaperInstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yaroten/Library/Mobile%20Documents/com~apple~CloudDocs/ShaperInstagram/ShaperInstagram/EditViewController.swift"
+                  timestampString = "546918367.7559839"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShaperInstagram.EditViewController.editImageView.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "ShaperInstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yaroten/Library/Mobile%20Documents/com~apple~CloudDocs/ShaperInstagram/ShaperInstagram/EditViewController.swift"
+                  timestampString = "546918367.759392"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShaperInstagram.EditViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; ShaperInstagram.EditViewController"
+                  moduleName = "ShaperInstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yaroten/Library/Mobile%20Documents/com~apple~CloudDocs/ShaperInstagram/ShaperInstagram/EditViewController.swift"
+                  timestampString = "546918367.762584"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "465">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShaperInstagram.EditViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;ShaperInstagram.EditViewController&gt;"
+                  moduleName = "ShaperInstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yaroten/Library/Mobile%20Documents/com~apple~CloudDocs/ShaperInstagram/ShaperInstagram/EditViewController.swift"
+                  timestampString = "546918367.76615"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
